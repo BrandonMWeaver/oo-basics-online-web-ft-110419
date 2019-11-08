@@ -13,6 +13,6 @@ class Book
   
   def turn_page
     puts "Flipping the page...wow, you read fast!"
-    self.page_count += 1
+    #self.page_count += 1
   end
 end
