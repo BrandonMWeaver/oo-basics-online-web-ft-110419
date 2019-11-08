@@ -11,4 +11,9 @@ class Shoe
   def brand
     return @this_brand
   end
+  
+  def cobble
+    self.condition = "new"
+    puts "The shoe has been repaired!"
+  end
 end
