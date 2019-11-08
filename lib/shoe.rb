@@ -6,5 +6,4 @@ class Shoe
   def brand
     return @this_brand
   end
-  
 end
